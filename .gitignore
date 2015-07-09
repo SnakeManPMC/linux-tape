@@ -1,0 +1,13 @@
+*.[oa]
+*~
+*.zip
+*.gz
+*.dump
+*.txt
+*.sh
+drop*
+dumpper
+new-shit
+single
+tape
+misc/
